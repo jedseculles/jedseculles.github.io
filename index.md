@@ -15,11 +15,11 @@
   PostgreSQL, MySQL, Redis, MongoDB, Supabase
 - **Testing & Quality**  
   RSpec, Minitest, Code Climate, test coverage strategies, managing technical debt
-- **Version Control & APIs**
+- **Version Control & APIs**  
   Git, RESTful API design, integrations (PayPal, Stripe, Google, Twitter, LinkedIn, Facebook)
-- **No Code**
+- **No Code**  
   FlutterFlow, co.dev, Replit
-- **AI-assisted Tools**
+- **AI-assisted Tools**  
   Cursor, Claude, OpenAI, Gemini, Perplexity
 ---
 
