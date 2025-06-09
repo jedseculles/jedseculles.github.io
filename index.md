@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Jedford Seculles – Resume"
+---
+
 # Jedford Seculles, CLSSGB
 
 **Manila, Philippines**  
