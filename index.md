@@ -1,7 +1,8 @@
 # Jedford Seculles, CLSSGB
 
 **Manila, Philippines**  
-[jaseculles@gmail.com](mailto:jaseculles@gmail.com) • (+63) 919 079 5507 • [linkedin.com/in/jedford-seculles](https://linkedin.com/in/jedford-seculles)
+[jaseculles@gmail.com](mailto:jaseculles@gmail.com)
+[linkedin.com/in/jedford-seculles](https://linkedin.com/in/jedford-seculles)
 
 ---
 
@@ -21,6 +22,7 @@
   FlutterFlow, co.dev, Replit
 - **AI-assisted Tools**  
   Cursor, Claude, OpenAI, Gemini, Perplexity
+  
 ---
 
 ## Professional Experience
