@@ -1,12 +1,13 @@
 ---
 layout: default
 title: "Jedford Seculles – Resume"
+nav: []
 ---
 
 # Jedford Seculles, CLSSGB
 
 **Manila, Philippines**  
-[jaseculles@gmail.com](mailto:jaseculles@gmail.com)
+[jaseculles@gmail.com](mailto:jaseculles@gmail.com)  
 [linkedin.com/in/jedford-seculles](https://linkedin.com/in/jedford-seculles)
 
 ---
